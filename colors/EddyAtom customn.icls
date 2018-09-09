@@ -1,16 +1,16 @@
 <scheme name="EddyAtom customn" version="142" parent_scheme="Default">
-  <option name="FONT_SCALE" value="1.0" />
+  <option name="FONT_SCALE" value="2.0" />
   <metaInfo>
-    <property name="modified">2018-07-11T09:44:19</property>
+    <property name="modified">2018-09-09T21:59:06</property>
   </metaInfo>
   <option name="LINE_SPACING" value="1.6" />
   <font>
     <option name="EDITOR_FONT_NAME" value="Fira Code Retina" />
-    <option name="EDITOR_FONT_SIZE" value="15" />
+    <option name="EDITOR_FONT_SIZE" value="30" />
   </font>
   <font>
     <option name="EDITOR_FONT_NAME" value="Monospaced" />
-    <option name="EDITOR_FONT_SIZE" value="15" />
+    <option name="EDITOR_FONT_SIZE" value="30" />
   </font>
   <option name="EDITOR_LIGATURES" value="true" />
   <option name="CONSOLE_FONT_NAME" value="Fira Code Medium" />
@@ -897,7 +897,7 @@
     </option>
     <option name="SS_BLOCK_VAR">
       <value>
-        <option name="FOREGROUND" value="e4577d" />
+        <option name="FOREGROUND" value="baa9e4" />
       </value>
     </option>
     <option name="TEMPLATE_VARIABLE_ATTRIBUTES">

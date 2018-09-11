@@ -44,6 +44,7 @@
         <added pattern="\Illuminate\Database\Eloquent\Relations\BelongsTo.associate(model)" />
         <added pattern="\Illuminate\Database\Eloquent\Builder.value(column)" />
         <added pattern="\SilverStripe\Core\Injector\Injectable.create(args)" />
+        <added pattern="\SilverStripe\ORM\DataObject.getManyManyComponents(componentName,id)" />
       </blacklist>
     </blacklists>
   </component>

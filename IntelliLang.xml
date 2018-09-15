@@ -4,9 +4,17 @@
       <display-name>a/@title</display-name>
       <place><![CDATA[xmlAttribute().withLocalName(string().equalTo("title")).withParent(xmlTag().withLocalName(string().equalTo("a")).withNamespace(string().equalTo("http://www.w3.org/1999/html")))]]></place>
     </injection>
+    <injection language="file-reference" injector-id="xml">
+      <display-name>html</display-name>
+      <place><![CDATA[xmlTag().withLocalName(string().equalTo("html")).withNamespace(string().equalTo("http://www.w3.org/1999/html"))]]></place>
+    </injection>
     <injection language="HTML" injector-id="xml">
       <display-name>i/@data-title</display-name>
       <place><![CDATA[xmlAttribute().withLocalName(string().equalTo("data-title")).withParent(xmlTag().withLocalName(string().equalTo("i")).withNamespace(string().equalTo("http://www.w3.org/1999/html")))]]></place>
+    </injection>
+    <injection language="file-reference" injector-id="xml">
+      <display-name>link/@rel</display-name>
+      <place><![CDATA[xmlAttribute().withLocalName(string().equalTo("rel")).withParent(xmlTag().withLocalName(string().equalTo("link")).withNamespace(string().equalTo("http://www.w3.org/1999/html")))]]></place>
     </injection>
     <injection language="HTML" injector-id="xml">
       <display-name>span/@class</display-name>

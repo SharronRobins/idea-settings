@@ -20,7 +20,8 @@
     <mask>*.blade.php</mask>
     <mask>*.sql</mask>
     <mask>!*.json</mask>
-    <mask>*.php</mask>
     <mask>*.html</mask>
+    <mask>*.ss</mask>
+    <mask>*.php</mask>
   </component>
 </application>

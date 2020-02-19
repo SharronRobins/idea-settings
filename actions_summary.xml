@@ -90,6 +90,14 @@
             </ActionSummary>
           </value>
         </entry>
+        <entry key="DatabaseView.Dump.Native">
+          <value>
+            <ActionSummary>
+              <option name="last" value="1582108500552" />
+              <option name="times" value="5" />
+            </ActionSummary>
+          </value>
+        </entry>
         <entry key="DatabaseView.Refresh">
           <value>
             <ActionSummary>
@@ -109,8 +117,8 @@
         <entry key="EditorBackSpace">
           <value>
             <ActionSummary>
-              <option name="last" value="1582104808538" />
-              <option name="times" value="61" />
+              <option name="last" value="1582108346060" />
+              <option name="times" value="64" />
             </ActionSummary>
           </value>
         </entry>
@@ -125,8 +133,8 @@
         <entry key="EditorCopy">
           <value>
             <ActionSummary>
-              <option name="last" value="1582107321627" />
-              <option name="times" value="5" />
+              <option name="last" value="1582108169141" />
+              <option name="times" value="6" />
             </ActionSummary>
           </value>
         </entry>
@@ -205,8 +213,8 @@
         <entry key="EditorPaste">
           <value>
             <ActionSummary>
-              <option name="last" value="1582104720857" />
-              <option name="times" value="11" />
+              <option name="last" value="1582108337987" />
+              <option name="times" value="13" />
             </ActionSummary>
           </value>
         </entry>
@@ -247,6 +255,14 @@
             <ActionSummary>
               <option name="last" value="1582104805906" />
               <option name="times" value="19" />
+            </ActionSummary>
+          </value>
+        </entry>
+        <entry key="FileChooser.NewFolder">
+          <value>
+            <ActionSummary>
+              <option name="last" value="1582108178615" />
+              <option name="times" value="2" />
             </ActionSummary>
           </value>
         </entry>
@@ -293,32 +309,32 @@
         <entry key="Tree-selectChild">
           <value>
             <ActionSummary>
-              <option name="last" value="1582104637689" />
-              <option name="times" value="35" />
+              <option name="last" value="1582108174337" />
+              <option name="times" value="38" />
             </ActionSummary>
           </value>
         </entry>
         <entry key="Tree-selectNext">
           <value>
             <ActionSummary>
-              <option name="last" value="1582104638359" />
-              <option name="times" value="195" />
+              <option name="last" value="1582108174241" />
+              <option name="times" value="200" />
             </ActionSummary>
           </value>
         </entry>
         <entry key="Tree-selectParent">
           <value>
             <ActionSummary>
-              <option name="last" value="1582104551575" />
-              <option name="times" value="21" />
+              <option name="last" value="1582108174083" />
+              <option name="times" value="22" />
             </ActionSummary>
           </value>
         </entry>
         <entry key="Tree-selectPrevious">
           <value>
             <ActionSummary>
-              <option name="last" value="1582104639161" />
-              <option name="times" value="131" />
+              <option name="last" value="1582108173257" />
+              <option name="times" value="132" />
             </ActionSummary>
           </value>
         </entry>
@@ -365,8 +381,8 @@
         <entry key="com.intellij.openapi.wm.impl.ToolWindowHeader$HideAction">
           <value>
             <ActionSummary>
-              <option name="last" value="1582102201168" />
-              <option name="times" value="6" />
+              <option name="last" value="1582108519261" />
+              <option name="times" value="8" />
             </ActionSummary>
           </value>
         </entry>
